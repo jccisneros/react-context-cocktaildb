@@ -1,0 +1,28 @@
+body{
+  width: 100%;
+}
+
+h1{
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 30px;
+  letter-spacing: 1.8px;
+  text-align: center;
+  font-size: 2rem;
+  color: white;
+}
+
+legend{
+  color: #fff;
+  margin: 2em 0;
+  font-weight: 550;
+  letter-spacing: 3px;
+}
+
+input, select{
+  margin-bottom: 2em;
+}
+
+.btn-primary{
+  background-color: #EB3B5A !important;
+  font-weight: 600 !important;
+}
